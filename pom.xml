@@ -20,4 +20,12 @@
         <module>practice</module>
     </modules>
 
+    <repositories>
+        <repository>
+            <id>qi4j</id>
+            <url>http://repository.ops4j.org/maven2/</url>
+        </repository>
+    </repositories>
+
+
 </project>

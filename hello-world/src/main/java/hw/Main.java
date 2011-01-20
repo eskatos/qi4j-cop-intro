@@ -1,6 +1,5 @@
 package hw;
 
-
 import org.qi4j.api.composite.TransientBuilderFactory;
 import org.qi4j.api.composite.TransientComposite;
 
